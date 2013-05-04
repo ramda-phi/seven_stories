@@ -314,4 +314,4 @@
 
 
 [Eternal β]: http://joh.webcrow.jp/
-[1stOpening]: ./seven_stories/IMG_1562.png
+[1stOpening]: IMG_1562.png
